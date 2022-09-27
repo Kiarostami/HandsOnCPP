@@ -1,2 +1,2 @@
 # LearningCPP
-There are my codes in the path of learning how to program with C++. All of the problems are from the Hackerrank C++ practice.
+There are my codes in the path of learning how to program with C++. Problems are from LeetCode and Hackerrank C++ Practice.
